@@ -40,6 +40,10 @@ const quotes = [
     quote: 'Huir significa ir a buscarte.',
     author: 'Elvira Sastre',
   },
+  {
+    quote: "Ni todos los lugares de los que uno se va se pausan, ni todas las personas que uno abandona se quedan",
+    author: "Elvira Sastre"
+  }
 ];
 
 function newQuote() {
